@@ -21,13 +21,16 @@ Welcome to my portfolio website, a showcase of my skills and projects! This webs
 
 ## Getting Started
 
-1. Clone the repository: `git clone [repository_url]`
-2. Install dependencies: `npm install`
-3. Run the development server: `npm start`
+1. Clone the repository: `git clone [https://github.com/aftab515/Aftab-Portfolio]`
+2. Install dependencies: `npm create vite@latest ./ -- --template react, npm install -D tailwindcss, npx tailwindcss init, npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom`
+3. Run the development server: `npm run dev`
 
 Feel free to explore and customize the code to suit your needs. If you have any questions or suggestions, don't hesitate to reach out!
 
-## License
+## Contact
 
-This project is licensed under the [MIT License](LICENSE).
+#### For further contact, you can reach me through these platforms. Feel free to ask any questions; I would be happy to assist you
 
+1. GitHub: [https://github.com/aftab515]
+2. LinkedIn: [https://www.linkedin.com/in/aftabsadiq1/]
+3. Whatsapp: [+92-300-792-0009]
