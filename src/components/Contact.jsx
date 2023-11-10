@@ -119,6 +119,46 @@ const Contact = () => {
           >
             {loading ? "Sending..." : "Send"}
           </button>
+
+          <div className="flex items-center gap-4 mx-auto">
+        {/* LinkedIn button */}
+        <a
+          href="https://www.linkedin.com/in/aftabsadiq1/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/src/assets/linkedIn.png" // Add the path to your LinkedIn icon image
+            alt="LinkedIn"
+            className="w-8 h-8"
+          />
+        </a>
+
+        {/* GitHub button */}
+        <a
+          href="https://github.com/aftab515"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/src/assets/github.png" // Add the path to your GitHub icon image
+            alt="GitHub"
+            className="w-8 h-8"
+          />
+        </a>
+        {/* WhatsApp button */}
+    <a
+      href="https://wa.me/923007920009" // Replace with your WhatsApp number
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/src/assets/whatsapp.png" // Add the path to your WhatsApp icon image
+        alt="WhatsApp"
+        className="w-8 h-8"
+      />
+    </a>
+      </div>
         </form>
       </motion.div>
 
