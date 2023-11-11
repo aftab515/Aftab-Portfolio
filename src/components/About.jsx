@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      As a highly skilled front end developer, I have a passion for creating visually stunning and user-friendly websites and applications. With over 2 years of experience in the industry, I have a proven track record of delivering top-quality projects on time and within budget.
+      As a highly skilled Full Stack Developer, I have a passion for creating visually stunning and user-friendly websites and applications. With over 2 years of experience in the industry, I have a proven track record of delivering top-quality projects on time and within budget.
 
       I have a strong foundation in HTML, CSS, and JavaScript, and am proficient in a variety of front end frameworks such as React. I also have experience working with back end technologies such as React and Node.js, allowing me to provide end-to-end solutions for my clients.
 
